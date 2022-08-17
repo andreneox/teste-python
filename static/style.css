@@ -1,0 +1,30 @@
+html {
+    font-family: sans-serif;
+    background: blueviolet;
+    padding: 1rem   ;
+}
+body {
+    background: white;
+    max-width: 960px;
+    margin: auto;
+}
+h1 {
+    font-family: serif;
+    color: #377ba8;
+    margin: 1rem auto;
+}
+hr {
+    border: none;
+    border-top: 1px solid lightgreen;
+}
+.post .about {
+    color: brown;
+    font-style: italic;
+}
+.post .body {
+    color: blue;
+    white-space: pre-line;
+}
+.content {
+    padding: 0 1rem 1rem  ;
+}
